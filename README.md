@@ -1,7 +1,7 @@
 # Web-Scrapping
 Web Scrapping using Pandas and Python 
 
-Website used for the project: https://en.wikipedia.org/wiki/List_of_largest_companies_in_India
+Website used in project: https://en.wikipedia.org/wiki/List_of_largest_companies_in_India
 
 -- Tech Used:
 -BeautifulSoup
